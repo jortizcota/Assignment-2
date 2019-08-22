@@ -1,2 +1,2 @@
 # Assignment-2
-In this assignment I will build a basic single-page websute with an external stylesheet
+In this assignment I will build a basic single-page website with an external stylesheet
